@@ -5,7 +5,7 @@ Computational Geometry Applets
 
 ## Installing
 
-You can compile all the applets running the Maven (at the root of the project):
+You can compile all the applets running the following Maven comand (at the root of the project):
 
 `mvn clean package`
 
