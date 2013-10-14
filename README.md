@@ -1,7 +1,10 @@
 GeoApplets
 ==========
 
-Computational Geometry Applets
+Computational Geometry Applets.
+
+This is an old project I've started in 2008 which I decided to make available and make it easier to build (using Maven). 
+More info about the project can be found in my personal page: http://www.kuniga.me/projects/geometry/
 
 ## Installing
 
